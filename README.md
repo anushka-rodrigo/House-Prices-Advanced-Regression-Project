@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on predicting house sale prices using a variety of **advanced regression techniques**. It uses the [Ames Housing Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) as the basis for building predictive models. The goal is to predict the sale price (`SalePrice`) for houses in the test dataset based on the features in the training data.
 
-The project is designed to showcase **data preprocessing, feature engineering, and model building**, combining both Python and R techniques.
+The project is designed to showcase **data preprocessing, feature engineering, and model building**.
 
 ---
 
